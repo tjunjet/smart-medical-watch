@@ -1,0 +1,102 @@
+.watch-wrapper {
+  position: relative;
+  width: 600px;
+  height: 230px;
+}
+
+.watch-img, p {
+  position: absolute;
+  font-family: 'SF Compact Text';
+  width: 50%;
+}
+
+.health-txt {
+  background-color: rgba(0, 0, 0, 0);  
+  bottom: 25%;
+  left: 38%;
+  color: #FF3B30;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.time-txt {
+  background-color: rgba(0, 0, 0, 0);  
+  bottom: 25%;
+  left: 61%;
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.heart-img {
+  position: absolute;
+  width: 6%;
+  bottom: 8%;
+  left: 58%;
+}
+
+.pressure-txt {
+  background-color: rgba(0, 0, 0, 0);
+  color: #FFFFFF;
+  bottom: -9%;
+  left: 48.5%;
+  font-weight: 300;
+  font-size: 2.2rem;
+}
+
+.pressure-unit {
+  background-color: rbga(0, 0, 0, 0);
+  color: #9A9A9A;
+  bottom: -2%;
+  left: 62.5%;
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+.steps-img {
+  position: absolute;
+  width: 5%;
+  bottom: -16.5%;
+  left: 58.5%;
+}
+
+.steps-txt { 
+  background-color: rbga(0, 0, 0, 0);
+  color: #FFFFFF;
+  bottom: -41%;
+  left: 48%;
+  font-weight: 300;
+  font-size: 3rem;
+}
+
+.steps-unit {
+  color: #9A9A9A;
+  bottom: -27%;
+  left: 61.5%;
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+.bpm-txt {
+  background-color: rgba(0, 0, 0, 0);
+  color: #FFFFFF;
+  left: 35.5%;
+  bottom: -50%;
+  font-weight: 300;
+  font-size: 1.8rem;
+}
+
+.bpm-unit {
+  background-color: rgba(0, 0, 0, 0);
+  color: #FF3B30;
+  left: 43%;
+  bottom: -42.75%;
+  font-weight: 500;
+}
+
+.wave-img {
+  position: absolute;
+  bottom: -72%;
+  left: 59%;
+  width: 50%;
+}
